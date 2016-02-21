@@ -1,6 +1,7 @@
-module Menu where
+module Menu (..) where
 
-Import Html
+import Html
+
 
 main =
-   Html.text "Hello World"
+  Html.text "Hello World"
